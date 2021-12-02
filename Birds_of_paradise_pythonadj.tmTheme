@@ -460,15 +460,15 @@
 			</dict>
 		</dict>
         <dict>
-            <key>name</key>
-            <string>[Python] - functions</string>
-            <key>scope</key>
-            <string> meta.function-call.python, meta.function-call.generic.python, support.function.builtin.python</string>
-            <key>settings</key>
-            <dict>
-                <key>foreground</key>
-                <string>#EFAC32</string>
-            </dict>
+			<key>name</key>
+			<string>[Python] - functions</string>
+			<key>scope</key>
+			<string> meta.function-call.python, meta.function-call.generic.python, support.function.builtin.python</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#EFAC32</string>
+			</dict>
 		</dict>
 	</array>
 	<key>uuid</key>

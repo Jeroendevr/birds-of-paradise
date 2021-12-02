@@ -447,7 +447,7 @@
 				<key>foreground</key>
 				<string>#6C99BB</string>
 			</dict>
-        </dict>
+		</dict>
 		<dict>
 			<key>name</key>
 			<string>[Python] - Color for Self Argument</string>

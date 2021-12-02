@@ -440,10 +440,7 @@
             <key>name</key>
             <string>[Python] - functions</string>
             <key>scope</key>
-            <string>
-                meta.function-call.python
-                meta.function-call.generic.python
-                support.function.builtin.python
+            <string> meta.function-call.python meta.function-call.generic.python support.function.builtin.python
             </string>
             <key>settings</key>
             <dict>

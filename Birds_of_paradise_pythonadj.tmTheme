@@ -452,6 +452,7 @@
 			<key>name</key>
 			<string>[Python] - Color for Self Argument</string>
 			<key>scope</key>
+			<string>variable.parameter.function.language.special.self.python</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>

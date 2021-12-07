@@ -1,4 +1,6 @@
 # README
+
+![Screenshot](/screenshot.PNG)
 ## This is the README for your extension "birds-of-paradise"
 You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
 

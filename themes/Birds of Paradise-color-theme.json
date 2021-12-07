@@ -7,6 +7,7 @@
 			//Original colors overview
 			// Source #E6E1C4
 			// Variables #7DAF9C
+			// 
 
 
 			// Activity Bar
@@ -63,6 +64,7 @@
 			"foreground": "#EFAC32",
 			"fontStyle": "bold"
 		},
+		"method": "#bb94b4",
 		
 		"module": "#6b98bb",
 
@@ -73,7 +75,8 @@
 			"foreground": "#E6E1C4",
 			"fontStyle": "italic"
 		},
-		"variable.builtin":"#7DAF9C"
+		"variable.builtin":"#7DAF9C",
+		"variable.decorator":"#bb94b4"
 	},
 	"tokenColors": [
 		{
@@ -112,6 +115,7 @@
 				"foreground": "#6C99BB"
 			}
 		},
+
 		{
 			"name": "Entity",
 			"scope": "entity",
@@ -121,10 +125,10 @@
 			}
 		},
 		{
-			"name": "[Entity namespace] - The color for modules and packages",
-			"scope" : "entity.name.namespace",
+			"name": "[Entity decorator] - The color for decorators",
+			"scope" : "entity.name.function.decorator.python",
 			"settings": {
-				"foreground": "#E6E1C4",
+				"foreground": "#bb94b4",
 				"fontStyle": ""
 			}
 		},
@@ -145,8 +149,16 @@
 			}
 		},
 		{
+			"name": "Function (definition)",
+			"scope" :"entity.name.function",
+			"settings": {
+				"foreground": "#EFAC32",
+				"fontStyle": ""
+			}		
+		},
+		{
 			"name": "Class (definition)",
-			"scope":"entity.name",
+			"scope":"entity.name.type",
 			"settings": {
 				"foreground": "#EFAC32",
 				"fontStyle": "bold"

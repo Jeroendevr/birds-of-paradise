@@ -1,13 +1,29 @@
 {
     "name": "birds-of-paradise",
     "displayName": "Birds of Paradise",
-    "description": "Birds of paradise with semantic highlighting",
-    "version": "0.0.1",
+    "publisher": "Programming-Engineer",
+    "description": "🦚 Birds of paradise with semantic highlighting",
+    "version": "0.0.2",
+    "icon": "screenshot.PNG",
     "engines": {
         "vscode": "^1.62.0"
     },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Jeroendevr/birds-of-paradise-vscode"
+    },
+    "galleryBanner": {
+        "color": "#281C1C66",
+        "theme": "dark"
+    },
     "categories": [
         "Themes"
+    ],
+    "keywords": [
+        "Birds of Paradise",
+        "Bird of Paradise",
+        "Dark Theme"
+
     ],
     "contributes": {
         "themes": [
@@ -17,5 +33,13 @@
                 "path": "./themes/Birds of Paradise-color-theme.json"
             }
         ]
-    }
+    
+    },
+    "files": [
+        "themes/Birds of Paradise-color-theme.json",
+        "themes",
+        "themes/*",
+        "package.json",
+        "README.md"
+    ]
 }

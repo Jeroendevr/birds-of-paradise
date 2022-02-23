@@ -1,5 +1,8 @@
 {
     "name": "birds-of-paradise",
+    "author": {
+        "name": "Jeroen de Vries"
+    },
     "displayName": "Birds of Paradise",
     "publisher": "Programming-Engineer",
     "description": "🦚 Birds of paradise with semantic highlighting",
@@ -22,8 +25,8 @@
     "keywords": [
         "Birds of Paradise",
         "Bird of Paradise",
-        "Dark Theme"
-
+        "Dark Theme",
+        "terminal"
     ],
     "contributes": {
         "themes": [
@@ -41,5 +44,6 @@
         "themes/*",
         "package.json",
         "README.md"
-    ]
+    ],
+    "license": "MIT"
 }

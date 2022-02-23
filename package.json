@@ -7,7 +7,7 @@
     "publisher": "Programming-Engineer",
     "description": "🦚 Birds of paradise with semantic highlighting",
     "version": "0.0.4",
-    "icon": "screenshot.PNG",
+    "icon": "icon.png",
     "engines": {
         "vscode": "^1.62.0"
     },

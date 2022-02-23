@@ -45,8 +45,8 @@
 			"activityBarBadge.foreground": "#372725",
 
 			// Sidebar
-			"sideBar.background": "#EFCB43",
-			"sideBar.foreground": "#372725",
+			"sideBar.foreground": "#E6E1C4",
+			"sideBar.background": "#372725",
 			"sideBar.border": "#6a4d32",
 	
 			// Terminal

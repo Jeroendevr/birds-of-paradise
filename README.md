@@ -10,7 +10,7 @@ Insipred by
 
 ### Semantic highlighting
 
-- [Semantic Rainbow](https://github.com/Thertzlor/semantic-rainbow/) for providing a good reference on sementic highlighting.
+- [Semantic Rainbow](https://github.com/Thertzlor/semantic-rainbow/) for providing a good reference on semantic highlighting.
 
 ### Non relevant themes
 

@@ -1,14 +1,9 @@
-README
+Birds of Paradise Theme for VisualStudio Code
 ==
-
 ![Screenshot](/screenshot.PNG)
 
-From the Textmate theme birds of paradise, 
-==
+**From the Textmate theme birds of paradise**  
 this is an attempt to add this theme in its full glory to VisualStudio Code
-
-Feel free to make any Pull request
---
 
 Insipred by
 ==
@@ -29,9 +24,11 @@ Other Birds of Paradise themes
 - [Birds of Paradise iTerm2 color scheme](https://github.com/mbadolato/iTerm2-Color-Schemes) for providing extra relevant colors 
    - [Original repo by zdj](https://github.com/zdj/themes/tree/master/iterm2)
 
-Replacement of
+Intended as a replacement of
 ==
 [gerane Birds of Paradise](https://github.com/gerane/VSCodeThemes/tree/master/gerane.Theme-Birds_of_Paradise)
 
 
 **Enjoy!**
+
+Feel free to make any Pull request

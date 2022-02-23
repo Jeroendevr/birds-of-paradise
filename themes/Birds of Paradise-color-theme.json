@@ -5,11 +5,20 @@
 		"semanticHighlighting": true,
 		"colors": {
 			//Original colors overview
-			// Source #E6E1C4
+			// Settings - Background #372725
+			// Source/Foreground/Caret #E6E1C4
 			// Variables #7DAF9C
+			// invisibles #42302D
 			// 
 			// Markup tag #EFCB43
-			// Caret #E6E1C4
+			// line highlight #1F1611
+			// Selection #16120E
+			// Source - Background #322323
+			// Comment- foreground #6B4E32
+			// Function #EFAC32
+
+			// Adjusted based on original
+			// background dark #2e201f
 
 			// Base colors
 			"focusBorder": "#6b98bb",
@@ -26,6 +35,12 @@
 			// Button
 			"button.foreground": "#E6E1C4",
 			"button.background": "#5B413D",
+
+			// Editor Groups & Tabs
+			"tab.activeBorder": "#6b98bb",
+			"tab.activeBackground": "#2e201f",
+			"tab.inactiveBackground": "#5B413D",
+			"editorGroupHeader.tabsBackground": "#5B413D",
 
 			// Editor
 			"editor.background": "#372725",
@@ -71,7 +86,7 @@
 			"terminal.ansiBrightYellow": "#d8d762",
 			
 			// Titlebar
-			"titleBar.activeBackground": "#5B413D",
+			"titleBar.activeBackground": "#2e201f",
 	
 			// Window
 			"window.activeBorder": "#372725",

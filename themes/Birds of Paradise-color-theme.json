@@ -8,7 +8,17 @@
 			// Source #E6E1C4
 			// Variables #7DAF9C
 			// 
+			// Markup tag #EFCB43
+			// Caret #E6E1C4
 
+			// Base colors
+			"focusBorder": "#6b98bb",
+			"foreground": "#feffff",
+			"selection.background": "#A40042",
+			"icon.foreground": "#6b98bb",
+
+			// Badge
+			"badge.background": "#6b98bb",
 
 			// Activity Bar
 			"activityBar.background": "#372725",
@@ -22,13 +32,22 @@
 			"editorCursor.foreground": "#DDDDDD",
 			"editor.foreground": "#E6E1C4",
 			"editorWhitespace.foreground": "#5B413D",
-			"editor.lineHighlightBackground": "#281C1C",
+			"editor.lineHighlightBackground": "#281C1C66",
 			"editor.selectionBackground": "#A40042",
+
+			//  Statusbar
+			"statusBar.foreground": "#372725",
+			"statusBar.background": "#EFCB43",
 	
-	
+
+			// Activity Bar
+			"activityBarBadge.background": "#EFCB43",
+			"activityBarBadge.foreground": "#372725",
+
 			// Sidebar
-			"sideBar.background": "#372725",
-			"sideBar.foreground": "#E6E1C4",
+			"sideBar.background": "#EFCB43",
+			"sideBar.foreground": "#372725",
+			"sideBar.border": "#6a4d32",
 	
 			// Terminal
 			// Thanks to iterm colors https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/schemes/BirdsOfParadise.itermcolors
@@ -36,7 +55,7 @@
 			"terminal.ansiBlack": "#6a4d32",
 			"terminal.ansiBlue": "#6b98bb",
 			"terminal.ansiCyan": "#85b4bb",
-			"terminal.ansiGreen": "#85b4bb",
+			"terminal.ansiGreen": "#6ba18a",
 			"terminal.ansiMagenta": "#bb94b4",
 			"terminal.ansiRed": "#cb4131",
 			"terminal.ansiWhite": "#e6e1c3",

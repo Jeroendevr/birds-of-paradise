@@ -23,6 +23,8 @@ Non relevant themes
 
 Other Birds of Paradise themes
 --
+- Repository with the [SublimeText repo](https://github.com/Colorsublime)
+    - Michael Sheets as the original creator
 - [Birds of Paradise iTerm2 color scheme](https://github.com/mbadolato/iTerm2-Color-Schemes) for providing extra relevant colors 
    - [Original repo by zdj](https://github.com/zdj/themes/tree/master/iterm2)
 

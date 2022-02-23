@@ -24,7 +24,9 @@ Insipred by
 - [Birds of Paradise iTerm2 color scheme](https://github.com/mbadolato/iTerm2-Color-Schemes) for providing extra relevant colors 
    - [Original repo by zdj](https://github.com/zdj/themes/tree/master/iterm2)
 
-### Intended as a replacement of
+--- 
+
+Intended as a replacement of
 
 [gerane Birds of Paradise](https://github.com/gerane/VSCodeThemes/tree/master/gerane.Theme-Birds_of_Paradise)
 

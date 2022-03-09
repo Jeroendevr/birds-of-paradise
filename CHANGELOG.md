@@ -4,6 +4,10 @@ All notable changes to the "birds-of-paradise" extension will be documented in t
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.0.10]
+
+- comment puncuation added
+
 ## [0.0.9]
 
 - punctuation definition string begin scope added

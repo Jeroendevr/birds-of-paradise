@@ -183,13 +183,20 @@
 			},
 		},
 		{
-			"name": "Punction",
+			"name": "Punctuation comment",
+			"scope": "punctuation.definition.comment",
+			"settings": {
+				"foreground": "#6B4E32",
+			}
+		},
+		{
+			"name": "Punction string",
 			"scope": "punctuation.definition.string.begin",
 			"settings": {
 				"foreground": "#D9D762",
 				"fontStyle": "bold"
 			}
-		}
+		},
 		{
 			"name": "Storage",
 			"scope": "storage",

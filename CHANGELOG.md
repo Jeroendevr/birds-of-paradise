@@ -4,6 +4,6 @@ All notable changes to the "birds-of-paradise" extension will be documented in t
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## [0.0.9]
 
-- Initial release
+- punctuation definition string begin scope added

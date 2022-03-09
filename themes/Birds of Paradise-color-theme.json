@@ -84,6 +84,7 @@
 			"terminal.ansiBrightRed": "#ee5d32",
 			"terminal.ansiBrightWhite": "#feffff",
 			"terminal.ansiBrightYellow": "#d8d762",
+			"terminal.background": "#372725",
 			
 			// Titlebar
 			"titleBar.activeBackground": "#2e201f",
@@ -173,6 +174,13 @@
 				"fontStyle": "",
 				"foreground": "#EF5D32"
 			}
+		},
+		{
+			"name": "Punctuation",
+			"scope": "punctuation",
+			"settings": {
+				"foreground": "#E6E1C4",
+			},
 		},
 		{
 			"name": "Storage",
@@ -295,6 +303,7 @@
 				"foreground": "#6C99BB"
 			}
 		},
+		// start of language specific rules
 		{
 			"name": "c C/C++ Preprocessor Line",
 			"scope": "meta.preprocessor.c",

@@ -1,6 +1,6 @@
 Birds of Paradise Theme for VisualStudio Code
 ==
-![Screenshot](https://giphy.com/embed/akpenTOAzoOjFGnlWn)
+![Screenshot](https://media.giphy.com/media/akpenTOAzoOjFGnlWn/giphy.gif)
 
 **From the Textmate theme birds of paradise**  
 this is an attempt to add this theme in its full glory to VisualStudio Code

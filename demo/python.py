@@ -20,3 +20,10 @@ print(data)
 data[0], data[1] = data[1], data[0]
 
 print(data)
+
+"""
+Some Docstrings
+"""
+value = 2 + 2
+dict = {"key": value}
+accesed_key = dict("key")

@@ -1,117 +1,98 @@
 {
-		"$schema": "vscode://schemas/color-theme",
-		"name": "Birds of Paradise",
-		"type": "dark",
-		"semanticHighlighting": true,
-		"colors": {
-			//Original colors overview
-			// Settings - Background #372725
-			// Source/Foreground/Caret #E6E1C4
-			// Variables #7DAF9C
-			// invisibles #42302D
-			// 
-			// Markup tag #EFCB43
-			// line highlight #1F1611
-			// Selection #16120E
-			// Source - Background #322323
-			// Comment- foreground #6B4E32
-			// Function #EFAC32
-
-			// Adjusted based on original
-			// background dark #2e201f
-
-			// Base colors
-			"focusBorder": "#6b98bb",
-			"foreground": "#feffff",
-			"selection.background": "#A40042",
-			"icon.foreground": "#6b98bb",
-
-			// Badge
-			"badge.background": "#6b98bb",
-
-			// Activity Bar
-			"activityBar.background": "#372725",
-			
-			// Button
-			"button.foreground": "#E6E1C4",
-			"button.background": "#5B413D",
-
-			// Editor Groups & Tabs
-			"tab.activeBorder": "#6b98bb",
-			"tab.activeBackground": "#2e201f",
-			"tab.inactiveBackground": "#5B413D",
-			"editorGroupHeader.tabsBackground": "#5B413D",
-
-			// Editor
-			"editor.background": "#372725",
-			"editorCursor.foreground": "#DDDDDD",
-			"editor.foreground": "#E6E1C4",
-			"editorWhitespace.foreground": "#5B413D",
-			"editor.lineHighlightBackground": "#281C1C66",
-			"editor.selectionBackground": "#A40042",
-
-			//  Statusbar
-			"statusBar.foreground": "#372725",
-			"statusBar.background": "#EFCB43",
-	
-
-			// Activity Bar
-			"activityBarBadge.background": "#EFCB43",
-			"activityBarBadge.foreground": "#372725",
-
-			// Sidebar
-			"sideBar.foreground": "#E6E1C4",
-			"sideBar.background": "#372725",
-			"sideBar.border": "#6a4d32",
-	
-			// Terminal
-			// Thanks to iterm colors https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/schemes/BirdsOfParadise.itermcolors
-			// https://iterm2colorschemes.com
-			"terminal.ansiBlack": "#6a4d32",
-			"terminal.ansiBlue": "#6b98bb",
-			"terminal.ansiCyan": "#85b4bb",
-			"terminal.ansiGreen": "#6ba18a",
-			"terminal.ansiMagenta": "#bb94b4",
-			"terminal.ansiRed": "#cb4131",
-			"terminal.ansiWhite": "#e6e1c3",
-			"terminal.ansiYellow": "#eeac36",
-			
-			"terminal.ansiBrightBlack": "#ac7f5c",
-			"terminal.ansiBrightBlue": "#c4dbf0",
-			"terminal.ansiBrightCyan": "#a2d7de",
-			"terminal.ansiBrightGreen": "#a3ddc6",
-			"terminal.ansiBrightMagenta": "#dab0d4",
-			"terminal.ansiBrightRed": "#ee5d32",
-			"terminal.ansiBrightWhite": "#feffff",
-			"terminal.ansiBrightYellow": "#d8d762",
-			"terminal.background": "#372725",
-			
-			// Titlebar
-			"titleBar.activeBackground": "#2e201f",
-	
-			// Window
-			"window.activeBorder": "#372725",
-
-			},
+	"$schema": "vscode://schemas/color-theme",
+	"name": "Birds of Paradise",
+	"type": "dark",
+	"semanticHighlighting": true,
+	"colors": {
+		//Original colors overview
+		// Settings - Background #372725
+		// Source/Foreground/Caret #E6E1C4
+		// Variables #7DAF9C
+		// invisibles #42302D
+		// String #D9D762
+		// Markup tag #EFCB43
+		// line highlight #1F1611
+		// Selection #16120E
+		// Source - Background #322323
+		// Comment- foreground #6B4E32
+		// Function #EFAC32
+		// Adjusted based on original
+		// background dark #2e201f
+		// Base colors
+		"focusBorder": "#6b98bb",
+		"foreground": "#feffff",
+		"selection.background": "#A40042",
+		"icon.foreground": "#6b98bb",
+		// Badge
+		"badge.background": "#6b98bb",
+		// Activity Bar
+		"activityBar.background": "#372725",
+		// Button
+		"button.foreground": "#E6E1C4",
+		"button.background": "#5B413D",
+		// Editor Groups & Tabs
+		"tab.activeBorder": "#6b98bb",
+		"tab.activeBackground": "#2e201f",
+		"tab.inactiveBackground": "#5B413D",
+		"editorGroupHeader.tabsBackground": "#5B413D",
+		// Editor
+		"editor.background": "#372725",
+		"editorCursor.foreground": "#DDDDDD",
+		"editor.foreground": "#E6E1C4",
+		"editorWhitespace.foreground": "#5B413D",
+		"editor.lineHighlightBackground": "#281C1C66",
+		"editor.selectionBackground": "#A40042",
+		//  Statusbar
+		"statusBar.foreground": "#372725",
+		"statusBar.background": "#EFCB43",
+		// Activity Bar
+		"activityBarBadge.background": "#EFCB43",
+		"activityBarBadge.foreground": "#372725",
+		// Sidebar
+		"sideBar.foreground": "#E6E1C4",
+		"sideBar.background": "#372725",
+		"sideBar.border": "#6a4d32",
+		// Terminal
+		// Thanks to iterm colors https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/schemes/BirdsOfParadise.itermcolors
+		// https://iterm2colorschemes.com
+		"terminal.ansiBlack": "#6a4d32",
+		"terminal.ansiBlue": "#6b98bb",
+		"terminal.ansiCyan": "#85b4bb",
+		"terminal.ansiGreen": "#6ba18a",
+		"terminal.ansiMagenta": "#bb94b4",
+		"terminal.ansiRed": "#cb4131",
+		"terminal.ansiWhite": "#e6e1c3",
+		"terminal.ansiYellow": "#eeac36",
+		"terminal.ansiBrightBlack": "#ac7f5c",
+		"terminal.ansiBrightBlue": "#c4dbf0",
+		"terminal.ansiBrightCyan": "#a2d7de",
+		"terminal.ansiBrightGreen": "#a3ddc6",
+		"terminal.ansiBrightMagenta": "#dab0d4",
+		"terminal.ansiBrightRed": "#ee5d32",
+		"terminal.ansiBrightWhite": "#feffff",
+		"terminal.ansiBrightYellow": "#d8d762",
+		"terminal.background": "#372725",
+		// Titlebar
+		"titleBar.activeBackground": "#2e201f",
+		// Window
+		"window.activeBorder": "#372725",
+	},
 	"semanticTokenColors": {
 		"class": "#EFAC32",
-		"class.declaration":{
+		"class.declaration": {
 			"foreground": "#EFAC32",
 			"fontStyle": "bold"
 		},
 		"method": "#bb94b4",
-		
 		"module": "#6b98bb",
-
 		"property": "#feffff",
-		
 		"variable": "#E6E1C4",
-		"variable.declaration":{
+		"variable.declaration": {
 			"foreground": "#E6E1C4",
 			"fontStyle": "italic"
 		},
-		"variable.builtin":"#7DAF9C",
-		"variable.decorator":"#bb94b4"
+		"variable.builtin": "#7DAF9C",
+		"variable.decorator": "#bb94b4"
 	},
 	"tokenColors": [
 		{
@@ -150,7 +131,6 @@
 				"foreground": "#6C99BB"
 			}
 		},
-
 		{
 			"name": "Entity",
 			"scope": "entity",
@@ -161,7 +141,7 @@
 		},
 		{
 			"name": "[Entity decorator] - The color for decorators",
-			"scope" : "entity.name.function.decorator.python",
+			"scope": "entity.name.function.decorator.python",
 			"settings": {
 				"foreground": "#bb94b4",
 				"fontStyle": ""
@@ -191,7 +171,10 @@
 		},
 		{
 			"name": "Punction string",
-			"scope": "punctuation.definition.string.begin",
+			"scope": [
+				"punctuation.definition.string.begin",
+				"punctuation.definition.string.end",
+			],
 			"settings": {
 				"foreground": "#D9D762",
 				"fontStyle": "bold"
@@ -207,15 +190,15 @@
 		},
 		{
 			"name": "Function (definition)",
-			"scope" :"entity.name.function",
+			"scope": "entity.name.function",
 			"settings": {
 				"foreground": "#EFAC32",
 				"fontStyle": ""
-			}		
+			}
 		},
 		{
 			"name": "Class (definition)",
-			"scope":"entity.name.type",
+			"scope": "entity.name.type",
 			"settings": {
 				"foreground": "#EFAC32",
 				"fontStyle": "bold"
@@ -240,7 +223,7 @@
 		{
 			"name": "Variable ",
 			"scope": [
-				"variable.language", 
+				"variable.language",
 				"variable.other",
 			],
 			"settings": {
@@ -490,7 +473,7 @@
 		},
 		{
 			"name": "[Python] - function arguments",
-			"scope":[
+			"scope": [
 				"meta.function-call.arguments.python"
 			],
 			"settings": {
@@ -498,6 +481,5 @@
 				"fontStyle": ""
 			}
 		}
-
 	],
 }

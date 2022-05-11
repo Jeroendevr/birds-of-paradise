@@ -6,7 +6,7 @@
     "displayName": "Birds of Paradise",
     "publisher": "Programming-Engineer",
     "description": "🦚 Birds of paradise with semantic highlighting",
-    "version": "0.0.10",
+    "version": "0.1.0",
     "icon": "icon.png",
     "engines": {
         "vscode": "^1.62.0"
@@ -36,7 +36,6 @@
                 "path": "./themes/Birds of Paradise-color-theme.json"
             }
         ]
-    
     },
     "files": [
         "themes/Birds of Paradise-color-theme.json",

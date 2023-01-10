@@ -1,3 +1,28 @@
 {
     "workbench.startupEditor": "none",
+    
+    "workbench.colorCustomizations": {
+        
+    },
+    "editor.tokenColorCustomizations": {
+        "textMateRules": [
+            {
+                "name": "Comment",
+                "scope": "comment",
+                "settings": {
+                    // "fontStyle": "italic",
+                    // "foreground": "#ab7f5b"
+                }
+            },
+            {
+                "name": "Python Docstring",
+                "scope": "string.quoted.double.block.python",
+                "settings": {
+                    // "fontStyle": "italic",
+                    // "foreground": "#ab7f5b"
+                }
+            },
+        ]
+    }
+
 }

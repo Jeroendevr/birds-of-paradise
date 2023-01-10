@@ -22,7 +22,7 @@ Insipred by
     - Joe Bergantine as the original creator
     - Original description "based on a warmer color palette than it’s older brother, Specials Board, it’s a little bit more natural, a little bit more tropcial. The background is a rich dark brown with complimentary colors over the top. Birds of Paradise is named for the Paradisaeidae family of birds in New Guinea from which it draws inspiration."
     - I have tried to find the real original theme, but this theme has been adapted and modified many times that searching for it was a real quest. 
-- [Birds of Paradise iTerm2 color scheme](https://github.com/mbadolato/iTerm2-Color-Schemes) for providing extra relevant colors 
+- [Birds of Paradise iTerm2 color scheme](https://github.com/mbadolato/iTerm2-Color-Schemes) for providing extra relevant colors [Birds of Paradise colors](https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/schemes/BirdsOfParadise.itermcolors)
    - [Original repo by zdj](https://github.com/zdj/themes/tree/master/iterm2)
 - Repository with perhaps the ["real" original](https://github.com/filmgirl/TextMate-Themes)
 
@@ -36,3 +36,20 @@ Intended as a replacement of
 **Enjoy!**
 
 Feel free to make any Pull request
+
+# Colors 
+An overview of the used colors
+```
+#6B4E32 - Comment (Original)
+#876f58 - Comment (Adjusted brighter) - Due to readability two tint lighter
+
+
+From the iTerm color 
+#Black
+Normal | Bright #ab7f5b
+
+
+```
+
+## Other usefull links
+Experimented with colors with the help of [Colorkit](https://colorkit.co)

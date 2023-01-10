@@ -106,7 +106,7 @@
 			"scope": "comment",
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#6B4E32"
+				"foreground": "#ab7f5b"
 			}
 		},
 		{
@@ -114,7 +114,7 @@
 			"scope": "string.quoted.double.block.python",
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#6B4E32"
+				"foreground": "#876f58"
 			}
 		},
 		{
@@ -156,6 +156,13 @@
 			}
 		},
 		{
+			"name": "Operator",
+			"scope": "keyword.operator.comparison",
+			"settings": {
+				"foreground": "#85b4bb"
+			}
+		},
+		{
 			"name": "Punctuation",
 			"scope": "punctuation",
 			"settings": {
@@ -166,7 +173,7 @@
 			"name": "Punctuation comment",
 			"scope": "punctuation.definition.comment",
 			"settings": {
-				"foreground": "#6B4E32",
+				"foreground": "#876f58",
 			}
 		},
 		{

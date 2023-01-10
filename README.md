@@ -25,6 +25,7 @@ Insipred by
 - [Birds of Paradise iTerm2 color scheme](https://github.com/mbadolato/iTerm2-Color-Schemes) for providing extra relevant colors [Birds of Paradise colors](https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/schemes/BirdsOfParadise.itermcolors)
    - [Original repo by zdj](https://github.com/zdj/themes/tree/master/iterm2)
 - Repository with perhaps the ["real" original](https://github.com/filmgirl/TextMate-Themes)
+- Overview as used in [TextMate](http://inkdeep.github.io/TextMate-Themes/#birds_of_paradise)
 
 --- 
 
@@ -43,10 +44,14 @@ An overview of the used colors
 #6B4E32 - Comment (Original)
 #876f58 - Comment (Adjusted brighter) - Due to readability two tint lighter
 
+#EF5D32 - Keyword
+
 
 From the iTerm color 
 #Black
 Normal | Bright #ab7f5b
+#Blue 
+Normal #6b98bb
 
 
 ```

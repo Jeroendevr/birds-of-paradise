@@ -19,6 +19,9 @@ print(data)
 
 data[0], data[1] = data[1], data[0]
 
+if False == True:
+    print("not the same")
+
 print(data)
 
 """

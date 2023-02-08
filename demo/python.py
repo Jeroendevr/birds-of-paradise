@@ -19,6 +19,7 @@ print(data)
 
 data[0], data[1] = data[1], data[0]
 
+# TODO Improve print statement
 if False == True:
     print("not the same")
 

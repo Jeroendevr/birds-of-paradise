@@ -14,4 +14,15 @@ console.log( world );
 	bootstrap: [AppComponent]
 })
 
+/*
+* TODO implement function
+*/
+function run(): void {
+
+}
+
+run()
+	
+
+
 export class AppModule {}

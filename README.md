@@ -38,8 +38,16 @@ Intended as a replacement of
 
 Feel free to make any Pull request
 
-# Colors 
+# 
+
+## Colors 
 An overview of the used colors
+
+<style>
+brown-comment {color: #876f58}
+</style>
+
+<bronw-comment> Comment </brown-comment>
 ```
 #6B4E32 - Comment (Original)
 #876f58 - Comment (Adjusted brighter) - Due to readability two tint lighter

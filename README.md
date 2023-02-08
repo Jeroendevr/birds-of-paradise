@@ -38,6 +38,15 @@ Intended as a replacement of
 
 Feel free to make any Pull request
 
+# Design Philisopy
+Although I did not create the theme, when adding better language support or highlighting I try to be consistent.
+
+Brown - Background, Comments
+Values/Information
+Keywords/Flow control
+Action/Transformation
+State/Storage
+Definitions/Primitives
 
 ## Colors 
 An overview of the used colors
